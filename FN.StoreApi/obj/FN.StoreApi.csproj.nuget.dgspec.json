@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.StoreApi\\FN.StoreApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Data\\FN.Store.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Data\\FN.Store.Data.csproj",
+        "projectName": "FN.Store.Data",
+        "projectPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Data\\FN.Store.Data.csproj",
+        "packagesPath": "C:\\Users\\Lucas Santana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lucas Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Domain\\FN.Store.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Domain\\FN.Store.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.DI\\FN.Store.DI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.DI\\FN.Store.DI.csproj",
+        "projectName": "FN.Store.DI",
+        "projectPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.DI\\FN.Store.DI.csproj",
+        "packagesPath": "C:\\Users\\Lucas Santana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.DI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lucas Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Data\\FN.Store.Data.csproj": {
+                "projectPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Data\\FN.Store.Data.csproj"
+              },
+              "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Domain\\FN.Store.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Domain\\FN.Store.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Domain\\FN.Store.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Domain\\FN.Store.Domain.csproj",
+        "projectName": "FN.Store.Domain",
+        "projectPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Domain\\FN.Store.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lucas Santana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lucas Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.StoreApi\\FN.StoreApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.StoreApi\\FN.StoreApi.csproj",
+        "projectName": "FN.StoreApi",
+        "projectPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.StoreApi\\FN.StoreApi.csproj",
+        "packagesPath": "C:\\Users\\Lucas Santana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.StoreApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lucas Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.DI\\FN.Store.DI.csproj": {
+                "projectPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.DI\\FN.Store.DI.csproj"
+              },
+              "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Domain\\FN.Store.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lucas Santana\\source\\repos\\FN.StoreApi\\FN.Store.Domain\\FN.Store.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

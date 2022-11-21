@@ -1,0 +1,13 @@
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\bin\Debug\netcoreapp3.1\FN.Store.Data.deps.json
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\bin\Debug\netcoreapp3.1\FN.Store.Data.dll
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\bin\Debug\netcoreapp3.1\FN.Store.Data.pdb
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\bin\Debug\netcoreapp3.1\FN.Store.Domain.dll
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\bin\Debug\netcoreapp3.1\FN.Store.Domain.pdb
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\obj\Debug\netcoreapp3.1\FN.Store.Data.csproj.AssemblyReference.cache
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\obj\Debug\netcoreapp3.1\FN.Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\obj\Debug\netcoreapp3.1\FN.Store.Data.AssemblyInfoInputs.cache
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\obj\Debug\netcoreapp3.1\FN.Store.Data.AssemblyInfo.cs
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\obj\Debug\netcoreapp3.1\FN.Store.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\obj\Debug\netcoreapp3.1\FN.Store.Data.csproj.CopyComplete
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\obj\Debug\netcoreapp3.1\FN.Store.Data.dll
+C:\Users\Lucas Santana\source\repos\FN.StoreApi\FN.Store.Data\obj\Debug\netcoreapp3.1\FN.Store.Data.pdb
